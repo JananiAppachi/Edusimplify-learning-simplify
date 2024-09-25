@@ -1,1 +1,1 @@
-# Edusimplify-learning-simplify
+# Edusimplify-simplified learning
